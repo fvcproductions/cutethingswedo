@@ -403,7 +403,7 @@
 		"oAP": "\/assets\/images\/us-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/images\/us-5.jpg": {
@@ -758,12 +758,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/CNAME",
-		"oF": 0
-		},
-	"\/index-ol.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index-ol.html",
 		"oF": 0
 		},
 	"\/index.html": {
