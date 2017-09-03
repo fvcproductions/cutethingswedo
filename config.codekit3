@@ -395,102 +395,111 @@
 		"oAP": "\/assets\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
-	"\/assets\/images\/cutethingswedo-stamp.png": {
-		"ft": 32768,
-		"iS": 1248704,
-		"oA": 0,
-		"oAP": "\/assets\/images\/cutethingswedo-stamp.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/cutethingswedo.jpg": {
-		"ft": 16384,
-		"iS": 199303,
-		"oA": 0,
-		"oAP": "\/assets\/images\/cutethingswedo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/assets\/images\/us-1.jpg": {
+	"\/assets\/images\/2016-05.jpg": {
 		"ft": 16384,
 		"iS": 630361,
 		"oA": 0,
-		"oAP": "\/assets\/images\/us-1.jpg",
+		"oAP": "\/assets\/images\/2016-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/images\/us-2.jpg": {
+	"\/assets\/images\/2016-08.JPG": {
 		"ft": 16384,
-		"iS": 311353,
+		"iS": 257205,
 		"oA": 0,
-		"oAP": "\/assets\/images\/us-2.jpg",
+		"oAP": "\/assets\/images\/2016-08.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/images\/us-3.jpg": {
+	"\/assets\/images\/2016-09.JPG": {
 		"ft": 16384,
-		"iS": 154194,
+		"iS": 187118,
 		"oA": 0,
-		"oAP": "\/assets\/images\/us-3.jpg",
+		"oAP": "\/assets\/images\/2016-09.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/images\/us-4.jpg": {
+	"\/assets\/images\/2016-10.JPG": {
 		"ft": 16384,
 		"iS": 727927,
 		"oA": 0,
-		"oAP": "\/assets\/images\/us-4.jpg",
+		"oAP": "\/assets\/images\/2016-10.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/images\/us-5.jpg": {
+	"\/assets\/images\/2016-11.jpg": {
+		"ft": 16384,
+		"iS": 106074,
+		"oA": 0,
+		"oAP": "\/assets\/images\/2016-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/2016-12.jpg": {
+		"ft": 16384,
+		"iS": 311353,
+		"oA": 0,
+		"oAP": "\/assets\/images\/2016-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/2017-02.jpg": {
 		"ft": 16384,
 		"iS": 200578,
 		"oA": 0,
-		"oAP": "\/assets\/images\/us-5.jpg",
+		"oAP": "\/assets\/images\/2017-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/images\/us-6.jpg": {
-		"ft": 16384,
-		"iS": 168875,
-		"oA": 0,
-		"oAP": "\/assets\/images\/us-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/assets\/images\/us-7.jpg": {
-		"ft": 16384,
-		"iS": 177711,
-		"oA": 0,
-		"oAP": "\/assets\/images\/us-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/assets\/images\/us-8.jpg": {
+	"\/assets\/images\/2017-06.jpg": {
 		"ft": 16384,
 		"iS": 205867,
 		"oA": 0,
-		"oAP": "\/assets\/images\/us-8.jpg",
+		"oAP": "\/assets\/images\/2017-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/2017-07.jpg": {
+		"ft": 16384,
+		"iS": 168875,
+		"oA": 0,
+		"oAP": "\/assets\/images\/2017-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/2017-08.jpg": {
+		"ft": 16384,
+		"iS": 186859,
+		"oA": 0,
+		"oAP": "\/assets\/images\/2017-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/images\/logo.jpg": {
+		"ft": 16384,
+		"iS": 199303,
+		"oA": 0,
+		"oAP": "\/assets\/images\/logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -940,8 +949,8 @@
 	"creationDate": 507497758,
 	"displayValue": "cutethingswedo",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_teal",
-	"lastBuiltDate": 526106507
+	"iconImageName": "\/assets\/images\/us-4.jpg",
+	"lastBuiltDate": 526108882
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
